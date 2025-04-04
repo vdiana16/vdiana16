@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Diana</h1>
-- 👨‍💻 2nd year Computer Science Student at Babes-Bolyai University from Cluj-Napoca
+- 👨‍💻 2nd year Computer Science Student at Babes-Bolyai University from Cluj-Napoca<br>
 - 📚 Currently studying:
   - Artificial Intelligence  
   - Web Development  
