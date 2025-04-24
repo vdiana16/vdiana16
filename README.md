@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hello, I'm Diana</h1>
 - 👨‍💻 2nd year Computer Science Student at Babes-Bolyai University from Cluj-Napoca<br>
-- 📚 Currently studying:
-  - Artificial Intelligence  
-  - Web Development  
-  - Database Management Systems  
-  - Software Engineering  
+- 📚 Currently studying:<br>
+  - Artificial Intelligence  <br>
+  - Web Development <br>
+  - Database Management Systems <br>
+  - Software Engineering <br>
   - Project Design and Programming  
 
 
