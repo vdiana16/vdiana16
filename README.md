@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Diana</h1>
-- 👨‍💻 2nd year Computer Science Student at Babes-Bolyai University from Cluj-Napoca<br>
+- 👨‍💻 3nd year Computer Science Student at Babes-Bolyai University from Cluj-Napoca<br>
 - 📚 Currently studying:<br>
   - Artificial Intelligence  <br>
   - Web Development <br>
@@ -29,6 +29,8 @@
 ![Qt](https://img.shields.io/badge/Qt-%23239A47.svg?&style=for-the-badge&logo=qt&logoColor=white)  
 ![JavaFX](https://img.shields.io/badge/JavaFX-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)  
 ![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?&style=for-the-badge&logo=gradle&logoColor=white)  
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)  
+![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?&style=for-the-badge&logo=apachemaven&logoColor=white)  
 
 ### 📡 Networking:
 ![Cisco](https://img.shields.io/badge/Cisco-%23049FD9.svg?&style=for-the-badge&logo=cisco&logoColor=white)  
