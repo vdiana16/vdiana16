@@ -45,7 +45,9 @@
 
 ### 🧠 Core Concepts
 `REST APIs` • `Microservices` • `Design Patterns` • `Agile/Scrum` • `Multi-threading`
+
 ---
+
 
 ## 📊 GitHub Stats:
 
