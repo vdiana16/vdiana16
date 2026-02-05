@@ -51,4 +51,5 @@
 
 ## 📊 GitHub Stats:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vdiana16&show_icons=true&theme=dark)
+![Diana's GitHub Metrics](https://metrics.lecoq.io/vdiana16?template=classic&base.header=0&base.activity=0&base.community=0&display=regular)
+
