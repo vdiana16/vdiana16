@@ -1,10 +1,5 @@
 <h1 align="center">👋 Hello, I'm Diana</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/diana-pasca"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:dianavalentinapasca@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
 - 🎓 **3rd year** Computer Science Student @ Babes-Bolyai University, Cluj-Napoca
 - 💻 Interested in Software Engineering and problem-solving
 - 🚀 Former Software Development Intern @ **Axon Soft**
