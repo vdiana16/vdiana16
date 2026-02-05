@@ -1,5 +1,10 @@
 <h1 align="center">👋 Hello, I'm Diana</h1>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/diana-pasca"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:dianavalentinapasca@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
 - 🎓 **3rd year** Computer Science Student @ Babes-Bolyai University, Cluj-Napoca
 - 💻 Interested in Software Engineering and problem-solving
 - 🚀 Former Software Development Intern @ **Axon Soft**
@@ -14,9 +19,15 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
 
-### 🚀 Frameworks & Libraries (Year 3 & Internship)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?&style=for-the-badge&logo=spring-boot&logoColor=white)
+### 🌐 Web Development
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### 🚀 Frameworks & Libraries 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?&style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
@@ -36,12 +47,10 @@
 
 ### 🧠 Core Concepts
 `REST APIs` • `Microservices` • `Design Patterns (GoF, GRASP)` • `Agile/Scrum` • `Multi-threading`
-
 ---
 
-## 📊 GitHub Statistics
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vdiana16&show_icons=true&theme=dark" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdiana16&layout=compact&theme=dark" />
-</p>
->
+## 📊 GitHub Stats:
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vdiana16&show_icons=true&theme=dark)
+
+?
