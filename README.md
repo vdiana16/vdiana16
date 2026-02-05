@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hello, I'm Diana</h1>
 
-- 🎓 **3rd year** Computer Science Student @ Babes-Bolyai University, Cluj-Napoca
-- 💻 Interested in Software Engineering and problem-solving
-- 🚀 Former Software Development Intern @ **Axon Soft**
+- 🎓 **3rd year** Computer Science Student  Babes-Bolyai University, Cluj-Napoca
+- 💻 Interested in **Software Development** and problem-solving
 - 🛠️ Currently exploring various technologies and architectural patterns
   
 ---
